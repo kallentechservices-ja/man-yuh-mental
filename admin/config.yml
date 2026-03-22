@@ -1,15 +1,15 @@
 backend:
   name: github
-  repo: kallentechservices-ja/manversation # Replace this with your actual repo!
+  repo: kallentechservices-ja/manversation
   branch: main
 
-media_folder: "images/uploads" # Where photos go when your dad uploads them
+media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
 collections:
   - name: "blog"
     label: "Blog Posts"
-    folder: "posts" # Where the text files will sit
+    folder: "posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
