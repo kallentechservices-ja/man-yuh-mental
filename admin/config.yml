@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kallentechservices-ja/manversation
+  repo: kallentechservices-ja/monversation
   branch: main
 
 media_folder: "images/uploads"
