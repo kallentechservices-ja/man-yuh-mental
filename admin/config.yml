@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: kallentechservices-ja/monversation
+  repo: kallentechservices-ja/man-yuh-mental
   branch: main
 
 media_folder: "images/uploads"
